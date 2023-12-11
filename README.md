@@ -1,4 +1,4 @@
-# LinkedIn Job Postings Data Visualization
+# LinkedIn Job Postings 
 
 ## About the Data
 Every day, LinkedIn serves as a go-to platform for thousands of companies and individuals in their search for talent. This dataset encompasses a nearly comprehensive record of 33,000+ job postings listed over two days, separated by several months. Each posting provides 27 valuable attributes, such as the job title, description, salary, location, application URL, and work types (remote, contract, etc.). Additionally, separate files are available for the associated benefits, skills, and industries related to each posting. Moreover, most jobs are linked to respective companies, which are detailed in another CSV file containing attributes like company description, headquarters location, number of employees, and follower count.
